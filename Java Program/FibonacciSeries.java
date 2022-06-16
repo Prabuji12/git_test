@@ -1,1 +1,3 @@
-Fibo
+class FibonacciSeries{
+
+}
